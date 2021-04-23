@@ -1,6 +1,6 @@
 ### Hi 👋
 
-My name's James (he/him) and I'm a senior engineer. I've been programming for a few years now over a variety of languages and frameworks. Feel free to have a browse through my public repositories and see if there's anything of interest.
+My name's James (he/him), I'm a senior engineer. Feel free to have a browse through my public repositories and see if there's anything of interest.
 
 ---
 
@@ -20,7 +20,6 @@ I'm a keen [Medium contributor](https://jc1175.medium.com/) as well. You can rea
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jc1175/0" alt="Recent Article 0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jc1175/1" alt="Recent Article 1"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jc1175/2" alt="Recent Article 2"> 
 
 <!--
 **JamesCollerton/JamesCollerton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
