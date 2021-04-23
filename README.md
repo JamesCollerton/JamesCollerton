@@ -16,7 +16,7 @@ I answer questions on [StackOverflow](https://stackoverflow.com/users/4733169/jc
 
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4733169&layout=compact&theme=dark)](https://stackoverflow.com/users/4733169/jcollerton)
 
-I'm a keen [Medium contributor](https://jc1175.medium.com/) as well. You can read some of my latest articles below.
+I'm a keen [Medium contributor](https://jc1175.medium.com/) as well. My latest articles update below.
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jc1175/0" alt="Recent Article 0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jc1175/1" alt="Recent Article 1"> 
