@@ -6,7 +6,7 @@ My name's James (he/him), I'm a senior engineer. Feel free to have a browse thro
 
 #### FlashApp 📸
 
-I own an Android application [FlashApp](https://play.google.com/store/apps/details?id=com.flashapp.jamescollerton.flashapp&hl=en_GB&gl=US) which is used by photographers all over the world looking to calculate exposure for film cameras.
+I own an Android application [FlashApp](https://play.google.com/store/apps/details?id=com.flashapp.jamescollerton.flashapp&hl=en_GB&gl=US), which is used by photographers all over the world looking to calculate exposure for film cameras.
 
 ---
 
