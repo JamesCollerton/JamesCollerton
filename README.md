@@ -16,10 +16,9 @@ I answer questions on [StackOverflow](https://stackoverflow.com/users/4733169/jc
 
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4733169&layout=compact&theme=dark)](https://stackoverflow.com/users/4733169/jcollerton)
 
-I'm a keen [Medium contributor](https://jc1175.medium.com/) as well. My latest articles update below.
+I'm a keen [Medium contributor](https://jc1175.medium.com/) as well. My latest article updates below.
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jc1175/0" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jc1175/1" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jc1175/0" alt="Recent Article 0">
 
 <!--
 **JamesCollerton/JamesCollerton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
