@@ -1,5 +1,7 @@
 ### Hi 👋
 
+---
+
 - 💻 My name's James, I'm currently a **principal engineer**.
 
 - 🔭 I’m currently working on **BBC Audience Participation**
