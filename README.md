@@ -2,11 +2,11 @@
 
 ---
 
-- 💻 My name's James, I'm currently a **principal engineer**.
+- 💻 My name's James, I'm a **Principal Engineer**.
 
-- 🔭 I’m currently working on **BBC Audience Participation**
+- 🔭 I’m working on the **BBC Audience Participation Platform**
 
-- 🌱 I’m currently learning **Java, Scala, React, AWS, Architecture**
+- 🌱 I’m learning **Java, Scala, React, AWS, Architecture**
 
 ---
 
