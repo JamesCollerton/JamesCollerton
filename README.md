@@ -2,11 +2,13 @@
 
 ---
 
-- 💻 My name's James, I'm a **Principal Engineer**.
+- 💻 My name's James, I'm a **Senior Engineer**.
 
-- 🔭 I’m working on the **BBC Audience Participation Platform**
+- 🔭 I’m working on the **Spotify User Platform**
 
 - 🌱 I’m learning **Java, Scala, React, AWS, Architecture**
+
+- 🕐 I used to be a **Principal Engineer working on BBC Participation and BBC Sounds**.
 
 ---
 
