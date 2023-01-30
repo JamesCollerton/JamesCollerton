@@ -28,7 +28,7 @@
 
 - 🖊 I'm a keen [Medium contributor](https://jc1175.medium.com/) as well. My latest article updates below.
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jc1175/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jc1175/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jc1175/0" alt="Recent Article 0">
   
 ---
 
