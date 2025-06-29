@@ -6,7 +6,7 @@
 
 - 🔭 I’m working on the **Spotify User Platform**
 
-- 🌱 I’m learning **Java, Scala, React, AWS, Architecture**
+- 🌱 I’m learning **Java, C++, React, GCP, Architecture**
 
 - 🕐 I used to be a **Principal Engineer working on BBC Participation and BBC Sounds**.
 
